@@ -1,0 +1,36 @@
+Steps for Enviourment Setup
+*********************************************
+1 Download and Install NodeJS
+    A. https://nodejs.org/en 
+    B. Choose 32/64 Bit and Download
+    C. After downloading Install
+    D. Check install is done or not using
+        AA. npm --version
+
+2. Download IDE and Install (Visual Studio Code)
+    A. IDE : integrated development environment (IDE) is a software application 
+    that helps programmers develop software code efficiently.
+
+3.Create a folder for project and open  in IDE.
+
+4. Open CMD/Terminal and execute below command
+    A. npm -i init  --> npm init ---> initializes a new Node.js project and creates a 
+    package.json file in the current directory. It guides you through a series of prompts 
+    to set up your project it is similar to POM.xml in java.
+
+5. Install Cypress - npm install cypress --save -dev
+    A. When you run npm install cypress --save-dev, npm will install Cypress and add it to 
+    your project's devDependencies in the package.json file. This allows you to manage and track 
+    Cypress as a development dependency for your project.
+
+6. Start Cypress
+    A. npx cypress open   
+            OR 
+    B. node_modules/.bin/cypress
+    
+
+
+
+
+
+    
