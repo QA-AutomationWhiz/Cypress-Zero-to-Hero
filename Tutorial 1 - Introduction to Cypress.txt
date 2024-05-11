@@ -1,0 +1,44 @@
+Cypress Introduction
+---------------------------------------------------------
+Cypress is basically frontend web automation tool
+we can automate modern web application (means those web app which is make in reactJS  node)
+Angular JS, React Js......
+We can Automate any application run on browser
+Javascipt programing used in Cypress
+but in Cypress does not use any selenium libraries
+
+It is open source
+Testrunner - Free (Open source) 80% testing will be done using it
+Dashboard - Paid (Maintain Testhistory, Parellel Running)
+
+Cypress is build with Node.js and comes with npm module
+
+Who can use Cypress - Dev & QA
+---------------------------------------------------------------
+End-to-end test cases
+Intigration test cases
+Unit test cases 
+
+API Testing 
+
+Cypress Eco System
+------------------------------------------------------------------
+Testrunner - 
+Dashboard -
+
+Features
+-------------------------------------------------------------------
+Time Travel - Each Steps are recored with Screenshot
+Debugging 
+Automatic Waits - Built in Waits : Solved the Sycronaisation problem
+Consistence Result 
+Screenshot and video automatically captured : No need to write any code
+Cross Browser Testing - Run Testcases with multiple browser and run Locally and Remote
+
+Limitations
+----------------------------------------------------------------------
+Can not automate Window Based / Mobile Based application
+Limited Support of Browser
+Only Support Javascipt and TypeScript
+Reading/writing data into file is diffcuilt
+Third party reporting tool Intigration is Limited
